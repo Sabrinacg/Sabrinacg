@@ -9,5 +9,7 @@ Me chamo Sabrina Cristina Garcia
 .Utilizo esse espaço para minha organição e compartilhamento dos meus projetos desenvolvidos 
 
 
-VOCÊ PODE ENTRAR EM CONTATO COMIGO ATRAVÉS DO EMAIL
+Vocês pode entrar em contato comigo através do e-mail
 00001110982240SP@AL.EDUCACAO.SP.GOV.BR
+
+@sabr_inagarcia
