@@ -2,11 +2,13 @@ Bem vindo ao meu perfil 👅
 
 Me chamo Sabrina Cristina Garcia 
 
-.Estou estudando no Alura
+.E.E Culto a Ciencia - 1B;
 
-.Estou me desenvolvendo na linguagem JavaScript
+.Estou estudando no Alura;
 
-.Utilizo esse espaço para minha organição e compartilhamento dos meus projetos desenvolvidos 
+.Estou me desenvolvendo na linguagem JavaScript;
+
+.Utilizo esse espaço para minha organição e compartilhamento dos meus projetos desenvolvidos.
 
 
 Vocês pode entrar em contato comigo através do e-mail
