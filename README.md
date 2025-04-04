@@ -2,7 +2,7 @@ Bem vindo ao meu perfil 👅
 
 Me chamo Sabrina Cristina Garcia 
 
-.E.E Culto a Ciencia - 1B;
+.E.E Culto a Ciencia ;
 
 .Estou estudando no Alura;
 
@@ -12,7 +12,7 @@ Me chamo Sabrina Cristina Garcia
 
 
 Vocês pode entrar em contato comigo através do e-mail
-00001110982240SP@AL.EDUCACAO.SP.GOV.BR
+Sabrinapro7078@gmail.com
 
 @sabr_inagarcia
 
