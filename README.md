@@ -2,8 +2,6 @@ Bem vindo ao meu perfil
 
 Me chamo Sabrina Cristina Garcia 
 
-.E.E Culto a Ciencia ;
-
 .Utilizo esse espaço para minha organição e compartilhamento dos meus projetos desenvolvidos.
 
 Vocês podem entrar em contato comigo através do e-mail
